@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="PluginImpl" type="Groovy" />
+      <mapping pattern="BuildChannelApk" type="Groovy" />
+      <mapping pattern="Cookies" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
