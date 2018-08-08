@@ -33,8 +33,8 @@ IntelliJ IDEA 支持安装在不同计算机上的 IntelliJ IDEA（或其他基�
 这些存储库被称为**只读源**，因为它们不能被覆盖或合并，仅用作设置源。
 
 要配置此类存储库，请执行以下操作：
-1. 在 **Settings / Preferences Dialog** 对话框中，展开 "工具" 节点，然后选择 "设置存储库"。
-2. 单击“+”并添加包含要共享设置的 GitHub 存储库的 URL。
+1. 在 **Settings / Preferences Dialog** 对话框中，展开 **Tools** 节点，然后选择 **Settings Repository**。
+2. 单击“+”并添加包含要共享设置的 GitHub 仓库的 URL。
 
 与只读源中的设置进行同步的方法与 **Settings Repository** 的方式相同。
 
