@@ -1,0 +1,36 @@
+<scheme name="Darcula_liyunlong" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-09-16T16:30:07</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.5.0.21</property>
+    <property name="modified">2019-09-16T16:39:08</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff9492" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="70bb" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0006" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="55e350" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbb00" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
